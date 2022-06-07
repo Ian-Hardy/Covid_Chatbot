@@ -5,5 +5,9 @@ A chatbot for providing COVID-19 resources to UCSC students. Uses a shallow netw
 
 Check out a brief demo!
 
-https://user-images.githubusercontent.com/11657817/172075227-e9f2a508-91ec-41e0-bbfa-ab5652ff66c6.mov
+
+
+
+https://user-images.githubusercontent.com/11657817/172495723-51032b05-9c2f-4c99-ae34-04741e14a486.mp4
+
 
