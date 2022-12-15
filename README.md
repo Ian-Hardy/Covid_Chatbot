@@ -1,4 +1,4 @@
-# Covid_Chatbot
+# Slug Doc
 
 A chatbot for providing COVID-19 resources to UCSC students. Uses a shallow network to classify user intents, templated responses when applicable, and a finetuned GPT-2 model to provide dynamic responses when applicable (typically for questions around symptoms.)
 
